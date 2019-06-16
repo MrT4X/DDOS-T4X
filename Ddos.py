@@ -1,5 +1,6 @@
-#Codec by Mr.yM
-#silahkan klean kreasikan/kembangkan sendiri :D
+#Ddos by Mr.T4X
+#Mari Ber Senang-Senang Gans :D
+#Hub: ("anonymoushackercyber@gmail.com")
 
 import os
 import sys
