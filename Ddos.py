@@ -15,7 +15,7 @@ bytes = random._urandom(1490)                           ##
 
 os.system("clear")
 print
-print "\033[37;1m			>//< Author Mr.yM >//<                      "
+print "\033[37;1m			>//< Author Mr.T4X >//<                      "
 print
 print "    _  _  _  _                _                                  "
 print "   (_)(_)(_)(_)              (_)                                 "
