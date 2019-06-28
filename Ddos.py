@@ -1,19 +1,19 @@
-#Ddos by Mr.T4X
-#Mari Ber Senang-Senang Gans :D
-#Hub: ("anonymoushackercyber@gmail.com")
+print #Ddos by Mr.T4X
+print #Mari Ber Senang-Senang Gans :D
+print #Hub: ("anonymoushackercyber@gmail.com")
 
 import os
 import sys
 import socket
 import random
 
-#SET SOCK AND RANDOM
-##########################################################
-sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) ##
-bytes = random._urandom(1490)                           ##
-##########################################################
+print #SET SOCK AND RANDOM
+print ###########################################################
+print # sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) #
+print # bytes = random._urandom(1490)                           #
+print ###########################################################
 
-os.system("clear")
+print os.system("clear")
 print
 print "\033[37;1m			>//< Author Mr.T4X >//<                      "
 print
